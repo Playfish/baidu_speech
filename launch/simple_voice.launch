@@ -7,12 +7,12 @@
   <arg name="REG_SAVE_LENGTH"                    default="8" />
   <arg name="REG_TIME_OUT"                       default="60" />
   <arg name="REG_NO_WORDS"                       default="6" />
-  <arg name="REG_Api_Key"                        default="pmUzrWcsA3Ce7RB5rSqsvQt2" />
-  <arg name="REG_Secrect_Key"                    default="d39ec848d016a8474c7c25e308b310c3" />
+  <arg name="REG_Api_Key"                        default="wqGDFYG5sha2wR0EbY3Nzple" />
+  <arg name="REG_Secrect_Key"                    default="v4hNHmqL0Qv9YExwrKww7fMDI7kB052k" />
   <arg name="REG_Grant_type"                     default="client_credentials" />
   <arg name="REG_Token_url"                      default="https://openapi.baidu.com/oauth/2.0/token" />
   <arg name="REG_Reg_url"                        default="http://vop.baidu.com/server_api" />
-  <arg name="REG_USER_ID"                        default="8168466" />
+  <arg name="REG_USER_ID"                        default="9864431" />
   <arg name="REG_FORMAT"                         default="wav" />
   <arg name="REG_LAN"                            default="zh" />
   <arg name="REG_nchannel"                       default="1" />
@@ -38,4 +38,3 @@
     <param name="REG_nchannel"                     value="$(arg REG_nchannel)"                  type="int"/>
   </node>
 </launch>
-
